@@ -24,10 +24,10 @@ h1,h2 {
 
  .flavour, .dessert{
     text-align: left;
-    width:49%;
+    width:75%;
  }
 
  .price{
     text-align: right;
-    width: 49%;
+    width: 25%;
  }
