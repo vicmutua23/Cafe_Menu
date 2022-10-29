@@ -1,9 +1,13 @@
 body {
     background-image: url(./photos/beans.jpg);
+    font-family:sans-serif;
 }
 
 h1, h2, p {
-    text-align:center;
+    text-align: center;
+}
+h1,h2 {
+    font-family: Impact,serif;
 }
 
 .menu {
@@ -11,12 +15,14 @@ h1, h2, p {
     background-color: burlywood;
     margin-left:auto;
     margin-right:auto;
+    padding:20px;
+    max-width:500px;
 }
  .item p{
     display:inline-block;
  }
 
- .flavour{
+ .flavour, .dessert{
     text-align: left;
     width:49%;
  }
